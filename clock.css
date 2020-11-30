@@ -1,0 +1,12 @@
+.clock {
+    background-color: #000000;
+    color:#343583;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: auto;
+    height: auto;
+    font-size: 5rem;
+    font-stretch: semi-expanded;
+}
