@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Cyberverse';
+    scr: url(/css/cyberverse/Cyberverse.otf);
+}
+
 .clock {
     background-color: #000000;
     color:#343583;
