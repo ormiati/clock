@@ -3,6 +3,12 @@
     src: url(/css/cyberverse/Cyberverse.otf);
 }
 
+body{
+    height: 90vh;
+    padding: 0;
+    background-color: #000000;
+}
+
 .clock {
     font-family: Cyberverse;
     background-color: #000000;
