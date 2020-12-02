@@ -1,10 +1,10 @@
 @font-face {
-    font-family: 'Cyberverse';
-    scr: url(/css/cyberverse/Cyberverse.otf);
+    font-family: Cyberverse;
+    src: url(/css/cyberverse/Cyberverse.otf);
 }
 
 .clock {
-    font-family: 'Cyberverse';
+    font-family: Cyberverse;
     background-color: #000000;
     color:#343583;
     position: absolute;
